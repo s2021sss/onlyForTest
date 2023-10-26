@@ -1,2 +1,3 @@
 Good day!
 Bad - line from user2
+Another life from user2
